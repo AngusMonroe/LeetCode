@@ -8,4 +8,4 @@ LeetCode
 
 |   | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](algorithms/771/771. Jewels and Stones.ipynb)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/771. Jewels and Stones.ipynb)|Easy|
