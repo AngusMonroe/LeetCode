@@ -15,6 +15,7 @@ Notes:
 |---| ----- | -------- | ---------- | ------ |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./algorithms/461/HammingDistance.ipynb)|Easy| |
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [C++](./algorithms/535/EncodeAndDecodeTinyURL.ipynb)|Medium| &diams; |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
