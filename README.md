@@ -18,6 +18,7 @@ Notes:
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
