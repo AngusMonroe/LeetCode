@@ -26,5 +26,6 @@ Notes:
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [C++](./algorithms/763/PartitionLabels.ipynb)|Medium| &diams; |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./algorithms/791/CustomSortString.ipynb)|Medium| &diams; |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
