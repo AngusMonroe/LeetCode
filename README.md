@@ -3,6 +3,10 @@ LeetCode
 
 ### LeetCode Algorithm
 
+*Solutions of 18 algorithm problems starting from the highest pass rate on LeetCode.*
+
+*Updating 1 problem everyday.*
+
 Notes: 
 
 "&hearts;" means you need to buy a book from Leetcode
@@ -20,6 +24,7 @@ Notes:
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./algorithms/476/NumberComplement.ipynb)|Easy| |
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [C++](./algorithms/535/EncodeAndDecodeTinyURL.ipynb)|Medium| &diams; |
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [C++](./algorithms/537/ComplexNumberMultiplication.ipynb)|Medium| |
+|557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [C++](./algorithms/557/ReverseWordsInAStringIII.ipynb)|Easy| |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [C++](./algorithms/561/ArrayPartitionI.ipynb)|Easy| |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
