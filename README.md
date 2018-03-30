@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 19 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 20 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -19,6 +19,7 @@ Notes:
 |---| ----- | -------- | ---------- | ------ |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](./algorithms/344/ReverseString.ipynb)|Easy| |
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [C++](./algorithms/412/FizzBuzz.ipynb)|Easy| |
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [C++](./algorithms/419/BattleshipsInABoard.ipynb)|Medium| |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./algorithms/461/HammingDistance.ipynb)|Easy| |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./algorithms/476/NumberComplement.ipynb)|Easy| |
