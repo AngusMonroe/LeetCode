@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 20 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 22 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -32,6 +32,7 @@ Notes:
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/657/TrimABinarySearchTree.ipynb)|Easy| &diams; |
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [C++](./algorithms/763/PartitionLabels.ipynb)|Medium| &diams; |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
