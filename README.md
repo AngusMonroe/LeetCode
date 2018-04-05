@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 24 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 25 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -37,6 +37,7 @@ Notes:
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [C++](./algorithms/763/PartitionLabels.ipynb)|Medium| &diams; |
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [C++](./algorithms/766/ToeplitzMatrix.ipynb)|Easy| |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./algorithms/791/CustomSortString.ipynb)|Medium| &diams; |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
