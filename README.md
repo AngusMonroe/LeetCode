@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 25 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 26 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -29,6 +29,7 @@ Notes:
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [C++](./algorithms/537/ComplexNumberMultiplication.ipynb)|Medium| |
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [C++](./algorithms/557/ReverseWordsInAStringIII.ipynb)|Easy| |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [C++](./algorithms/561/ArrayPartitionI.ipynb)|Easy| |
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./algorithms/566/ReshapeTheMatrix.ipynb)|Easy| |
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [C++](./algorithms/575/DistributeCandies.ipynb)|Easy| |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
