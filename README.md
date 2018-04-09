@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 28 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 29 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -19,6 +19,7 @@ Notes:
 |---| ----- | -------- | ---------- | ------ |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](./algorithms/344/ReverseString.ipynb)|Easy| |
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [C++](./algorithms/406/QueueReconstructionByHeight.ipynb)|Medium| &diams; |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [C++](./algorithms/412/FizzBuzz.ipynb)|Easy| |
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [C++](./algorithms/419/BattleshipsInABoard.ipynb)|Medium| |
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](./algorithms/442/FindAllDuplicatesInAnArray.ipynb)|Medium| &diams; |
