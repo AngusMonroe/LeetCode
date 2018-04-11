@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 30 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 31 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -31,6 +31,7 @@ Notes:
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [C++](./algorithms/513/FindBottomLeftTreeValue.ipynb)|Medium| |
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [C++](./algorithms/535/EncodeAndDecodeTinyURL.ipynb)|Medium| &diams; |
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [C++](./algorithms/537/ComplexNumberMultiplication.ipynb)|Medium| |
+|540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [C++](./algorithms/540/SingleElementInASortedArray.ipynb)|Medium| |
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [C++](./algorithms/557/ReverseWordsInAStringIII.ipynb)|Easy| |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [C++](./algorithms/561/ArrayPartitionI.ipynb)|Easy| |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./algorithms/566/ReshapeTheMatrix.ipynb)|Easy| |
