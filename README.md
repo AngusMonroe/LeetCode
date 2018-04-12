@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 31 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 32 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -37,6 +37,7 @@ Notes:
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./algorithms/566/ReshapeTheMatrix.ipynb)|Easy| |
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [C++](./algorithms/575/DistributeCandies.ipynb)|Easy| |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](./algorithms/637/AverageOfLevelsInBinaryTree.ipynb)|Easy| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/657/TrimABinarySearchTree.ipynb)|Easy| &diams; |
