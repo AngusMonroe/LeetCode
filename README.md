@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 35 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 36 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -17,6 +17,7 @@ Notes:
 
 |   | Title | Solution | Difficulty | Remark |
 |---| ----- | -------- | ---------- | ------ |
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./algorithms/136/SingleNumber.ipynb)|Easy| |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](./algorithms/344/ReverseString.ipynb)|Easy| |
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [C++](./algorithms/406/QueueReconstructionByHeight.ipynb)|Medium| &diams; |
