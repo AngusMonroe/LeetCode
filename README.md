@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 37 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 38 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -31,11 +31,12 @@ Notes:
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [C++](./algorithms/496/NextGreaterElementI.ipynb)|Easy| |
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [C++](./algorithms/500/KeyboardRow.ipynb)|Easy| &diams; |
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [C++](./algorithms/513/FindBottomLeftTreeValue.ipynb)|Medium| |
-|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/ | [C++](./algorithms/515/FindLargestValueInEachTreeRow.ipynb)|Medium| |
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [C++](./algorithms/515/FindLargestValueInEachTreeRow.ipynb)|Medium| |
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [C++](./algorithms/521/LongestUncommonSubsequenceI.ipynb)|Easy| |
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [C++](./algorithms/535/EncodeAndDecodeTinyURL.ipynb)|Medium| &diams; |
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [C++](./algorithms/537/ComplexNumberMultiplication.ipynb)|Medium| |
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [C++](./algorithms/540/SingleElementInASortedArray.ipynb)|Medium| |
+|553|[SOptimal Division](https://leetcode.com/problems/optimal-division/description/) | [C++](./algorithms/553/OptimalDivision.ipynb)|Medium|  &diams; |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [C++](./algorithms/557/ReverseWordsInAStringIII.ipynb)|Easy| |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [C++](./algorithms/561/ArrayPartitionI.ipynb)|Easy| |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./algorithms/566/ReshapeTheMatrix.ipynb)|Easy| |
