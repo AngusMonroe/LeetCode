@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 38 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 39 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -49,6 +49,7 @@ Notes:
 |682|[Binary Number with Alternating Bits](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |693|[Baseball Game](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
+|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [C++](./algorithms/762/PrimeNumberOfSetBitsInBinaryRepresentation.ipynb)|Easy| |
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [C++](./algorithms/763/PartitionLabels.ipynb)|Medium| &diams; |
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [C++](./algorithms/766/ToeplitzMatrix.ipynb)|Easy| |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
