@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 42 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 43 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -30,6 +30,7 @@ Notes:
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./algorithms/461/HammingDistance.ipynb)|Easy| |
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [C++](./algorithms/463/IslandPerimeter.ipynb)|Easy| |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./algorithms/476/NumberComplement.ipynb)|Easy| |
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [C++](./algorithms/485/MaxConsecutiveOnes.ipynb)|Easy| |
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [C++](./algorithms/496/NextGreaterElementI.ipynb)|Easy| |
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [C++](./algorithms/500/KeyboardRow.ipynb)|Easy| &diams; |
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [C++](./algorithms/513/FindBottomLeftTreeValue.ipynb)|Medium| |
