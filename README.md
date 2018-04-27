@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 46 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 47 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -63,3 +63,5 @@ Notes:
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./algorithms/791/CustomSortString.ipynb)|Medium| &diams; |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./algorithms/812/LargestTriangleArea/.ipynb)|Easy| |
+
