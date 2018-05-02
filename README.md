@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 50 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 51 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -48,6 +48,7 @@ Notes:
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [C++](./algorithms/561/ArrayPartitionI.ipynb)|Easy| |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./algorithms/566/ReshapeTheMatrix.ipynb)|Easy| |
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [C++](./algorithms/575/DistributeCandies.ipynb)|Easy| |
+|609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) | [C++](./algorithms/609/FindDuplicateFileInSystem.ipynb)|Medium| |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](./algorithms/637/AverageOfLevelsInBinaryTree.ipynb)|Easy| |
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./algorithms/647/PalindromicSubstrings.ipynb)|Medium| |
