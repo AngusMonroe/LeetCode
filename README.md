@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 53 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 54 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -29,6 +29,7 @@ Notes:
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [C++](./algorithms/413/ArithmeticSlices.ipynb)|Medium| &diams; |
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [C++](./algorithms/419/BattleshipsInABoard.ipynb)|Medium| |
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](./algorithms/442/FindAllDuplicatesInAnArray.ipynb)|Medium| &diams; |
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [C++](./algorithms/451/SortCharactersByFrequency.ipynb)|Medium| |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./algorithms/461/HammingDistance.ipynb)|Easy| |
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [C++](./algorithms/463/IslandPerimeter.ipynb)|Easy| |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./algorithms/476/NumberComplement.ipynb)|Easy| |
