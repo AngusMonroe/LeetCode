@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 54 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 56 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -20,6 +20,7 @@ Notes:
 |104|[Single Number](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](./algorithms/104/MaximumDepthOfBinaryTree.ipynb)|Easy| |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./algorithms/136/SingleNumber.ipynb)|Easy| |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [C++](./algorithms/226/InvertBinaryTree.ipynb)|Easy| |
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) | [C++](./algorithms/258/AddDigits.ipynb)|Easy| |
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [C++](./algorithms/260/SingleNumberIII.ipynb)|Medium| |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](./algorithms/292/NimGame.ipynb)|Easy| |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
@@ -57,8 +58,9 @@ Notes:
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/657/TrimABinarySearchTree.ipynb)|Easy| &diams; |
-|682|[Binary Number with Alternating Bits](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
-|693|[Baseball Game](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./algorithms/693/MaxAreaOfIsland.ipynb)|Easy| |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [C++](./algorithms/739/DailyTemperatures.ipynb)|Medium| &diams; |
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | [C++](./algorithms/748/ShortestCompletingWord.ipynb)|Medium| |
