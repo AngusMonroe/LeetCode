@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 57 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 58 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -22,6 +22,7 @@ Notes:
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [C++](./algorithms/226/InvertBinaryTree.ipynb)|Easy| |
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/) | [C++](./algorithms/258/AddDigits.ipynb)|Easy| |
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [C++](./algorithms/260/SingleNumberIII.ipynb)|Medium| |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](./algorithms/283/MoveZeroes.ipynb)|Easy| |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](./algorithms/292/NimGame.ipynb)|Easy| |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](./algorithms/344/ReverseString.ipynb)|Easy| |
