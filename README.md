@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 59 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 60 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -64,6 +64,7 @@ Notes:
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [C++](./algorithms/690/EmployeeImportance.ipynb)|Easy| &diams; |
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./algorithms/693/MaxAreaOfIsland.ipynb)|Easy| |
+|712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](./algorithms/712/MinimumASCIIDeleteSumForTwoStrings.ipynb)|Medium| &diams; |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [C++](./algorithms/739/DailyTemperatures.ipynb)|Medium| &diams; |
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | [C++](./algorithms/748/ShortestCompletingWord.ipynb)|Medium| |
