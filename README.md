@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 60 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 61 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -37,6 +37,7 @@ Notes:
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [C++](./algorithms/463/IslandPerimeter.ipynb)|Easy| |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./algorithms/476/NumberComplement.ipynb)|Easy| |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [C++](./algorithms/485/MaxConsecutiveOnes.ipynb)|Easy| |
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [C++](./algorithms/495/TeemoAttacking.ipynb)|Medium| |
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [C++](./algorithms/496/NextGreaterElementI.ipynb)|Easy| |
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [C++](./algorithms/500/KeyboardRow.ipynb)|Easy| &diams; |
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | [C++](./algorithms/508/MostFrequentSubtreeSum.ipynb)|Medium| |
