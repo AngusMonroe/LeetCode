@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 61 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 62 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -60,6 +60,7 @@ Notes:
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./algorithms/647/PalindromicSubstrings.ipynb)|Medium| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [C++](./algorithms/667/BeautifulArrangementII.ipynb)|Medium| &diams; |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/657/TrimABinarySearchTree.ipynb)|Easy| &diams; |
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [C++](./algorithms/690/EmployeeImportance.ipynb)|Easy| &diams; |
