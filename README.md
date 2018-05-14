@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 62 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 63 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -62,6 +62,7 @@ Notes:
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [C++](./algorithms/667/BeautifulArrangementII.ipynb)|Medium| &diams; |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/657/TrimABinarySearchTree.ipynb)|Easy| &diams; |
+|677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./algorithms/677/MapSumPairs.ipynb)|Medium| &diams; |
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [C++](./algorithms/690/EmployeeImportance.ipynb)|Easy| &diams; |
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
