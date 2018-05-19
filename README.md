@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 64 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 65 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -32,6 +32,7 @@ Notes:
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [C++](./algorithms/413/ArithmeticSlices.ipynb)|Medium| &diams; |
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [C++](./algorithms/419/BattleshipsInABoard.ipynb)|Medium| |
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](./algorithms/442/FindAllDuplicatesInAnArray.ipynb)|Medium| &diams; |
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](./algorithms/448/FindAllNumbersDisappearedInAnArray.ipynb)|Easy| &diams; |
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [C++](./algorithms/451/SortCharactersByFrequency.ipynb)|Medium| |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./algorithms/461/HammingDistance.ipynb)|Easy| |
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | [C++](./algorithms/462/MinimumMovesToEqualArrayElementsII.ipynb)|Medium| &diams; |
