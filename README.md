@@ -26,6 +26,7 @@ Notes:
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](./algorithms/292/NimGame.ipynb)|Easy| |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](./algorithms/344/ReverseString.ipynb)|Easy| |
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](./algorithms/371/SumOfTwoIntegers.ipynb)|Easy| &diams; |
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [C++](./algorithms/389/FindTheDifference.ipynb)|Easy| |
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [C++](./algorithms/406/QueueReconstructionByHeight.ipynb)|Medium| &diams; |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [C++](./algorithms/412/FizzBuzz.ipynb)|Easy| |
