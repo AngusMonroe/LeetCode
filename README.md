@@ -69,7 +69,8 @@ Notes:
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [C++](./algorithms/690/EmployeeImportance.ipynb)|Easy| &diams; |
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
-|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./algorithms/693/MaxAreaOfIsland.ipynb)|Easy| |
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./algorithms/695/MaxAreaOfIsland.ipynb)|Easy| |
+|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](./algorithms/696/CountBinarySubstrings.ipynb)|Easy| |
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](./algorithms/712/MinimumASCIIDeleteSumForTwoStrings.ipynb)|Medium| &diams; |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [C++](./algorithms/739/DailyTemperatures.ipynb)|Medium| &diams; |
