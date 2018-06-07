@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 66 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 69 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -81,6 +81,7 @@ Notes:
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/771/JewelsAndStones.ipynb)|Easy| |
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [C++](./algorithms/784/LetterCasePermutation.ipynb)|Easy| &diams; |
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [C++](./algorithms/784/RotatedDigits.ipynb)|Easy| |
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [C++](./algorithms/789/EscapeTheGhosts.ipynb)|Medium| |
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./algorithms/791/CustomSortString.ipynb)|Medium| &diams; |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
