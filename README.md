@@ -85,5 +85,5 @@ Notes:
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./algorithms/791/CustomSortString.ipynb)|Medium| &diams; |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
-|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./algorithms/812/LargestTriangleArea/.ipynb)|Easy| |
-
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./algorithms/812/LargestTriangleArea.ipynb)|Easy| |
+|980|[Unique Paths III](https://leetcode.com/tag/dynamic-programming/) | [Python3](./algorithms/980/UniquePathsIII.ipynb)|Hard| |
