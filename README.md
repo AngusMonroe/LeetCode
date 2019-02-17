@@ -25,6 +25,7 @@ Notes:
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](./algorithms/283/MoveZeroes.ipynb)|Easy| |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](./algorithms/292/NimGame.ipynb)|Easy| |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](./algorithms/338/CountingBits.ipynb)|Easy| |
+|343|[Integer Break](https://leetcode.com/problems/integer-break) | [Python3](./algorithms/343/IntegerBreakg.ipynb)|Medium| |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](./algorithms/344/ReverseString.ipynb)|Easy| |
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](./algorithms/371/SumOfTwoIntegers.ipynb)|Easy| &diams; |
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [C++](./algorithms/389/FindTheDifference.ipynb)|Easy| |
