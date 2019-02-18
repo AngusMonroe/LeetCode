@@ -88,5 +88,6 @@ Notes:
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./algorithms/812/LargestTriangleArea.ipynb)|Easy| |
+|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Python3](./algorithms/979/DistributeCoinsInBinaryTree.ipynb)|Medium| 
 |980|[Unique Paths III](https://leetcode.com/tag/dynamic-programming/) | [Python3](./algorithms/980/UniquePathsIII.ipynb)|Hard| |
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python3](./algorithms/983/MinimumCostForTickets.ipynb)|Medium| 
