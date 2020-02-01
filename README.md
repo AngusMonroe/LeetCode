@@ -18,6 +18,7 @@ Notes:
 |   | Title | Solution | Difficulty | Remark |
 |---| ----- | -------- | ---------- | ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithms/1/TwoSum.ipynb)|Easy| |
+|1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithms/70/TwoSum.ipynb)|Easy| |
 |104|[Single Number](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](./algorithms/104/MaximumDepthOfBinaryTree.ipynb)|Easy| |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./algorithms/136/SingleNumber.ipynb)|Easy| |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [C++](./algorithms/226/InvertBinaryTree.ipynb)|Easy| |
