@@ -18,7 +18,7 @@ Notes:
 |   | Title | Solution | Difficulty | Remark |
 |---| ----- | -------- | ---------- | ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithms/1/TwoSum.ipynb)|Easy| |
-|1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithms/70/TwoSum.ipynb)|Easy| |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithms/70/TwoSum.ipynb)|Easy| |
 |104|[Single Number](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](./algorithms/104/MaximumDepthOfBinaryTree.ipynb)|Easy| |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./algorithms/136/SingleNumber.ipynb)|Easy| |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [C++](./algorithms/226/InvertBinaryTree.ipynb)|Easy| |
@@ -93,3 +93,5 @@ Notes:
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Python3](./algorithms/979/DistributeCoinsInBinaryTree.ipynb)|Medium| &diams; |
 |980|[Unique Paths III](https://leetcode.com/tag/dynamic-programming/) | [Python3](./algorithms/980/UniquePathsIII.ipynb)|Hard| |
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python3](./algorithms/983/MinimumCostForTickets.ipynb)|Medium| |
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python3](./algorithms/1021/RemoveOutermostParentheses.ipynb)|Easy| |
+
