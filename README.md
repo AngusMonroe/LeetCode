@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 69 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 78 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -21,6 +21,7 @@ Notes:
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithms/70/TwoSum.ipynb)|Easy| |
 |104|[Single Number](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](./algorithms/104/MaximumDepthOfBinaryTree.ipynb)|Easy| |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./algorithms/136/SingleNumber.ipynb)|Easy| |
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python3](./algorithms/104/EvaluateReversePolishNotation.ipynb)|Medium| |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [C++](./algorithms/226/InvertBinaryTree.ipynb)|Easy| |
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/) | [C++](./algorithms/258/AddDigits.ipynb)|Easy| |
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [C++](./algorithms/260/SingleNumberIII.ipynb)|Medium| |
