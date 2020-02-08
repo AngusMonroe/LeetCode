@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 80 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 81 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -90,6 +90,7 @@ Notes:
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./algorithms/791/CustomSortString.ipynb)|Medium| &diams; |
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) | [C++](./algorithms/796/RotateString.ipynb)|Easy| &diams; |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [C++](./algorithms/797/AllPathsFromSourceToTarget.ipynb)|Medium| &diams; |
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python3](./algorithms/804/UniqueMorseCodeWords.ipynb)|Easy| |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./algorithms/812/LargestTriangleArea.ipynb)|Easy| |
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Python3](./algorithms/817/LinkedListComponents.ipynb)|Medium| |
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Python3](./algorithms/979/DistributeCoinsInBinaryTree.ipynb)|Medium| &diams; |
