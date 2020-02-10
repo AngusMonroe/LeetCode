@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 82 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 83 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -61,7 +61,8 @@ Notes:
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [C++](./algorithms/561/ArrayPartitionI.ipynb)|Easy| |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./algorithms/566/ReshapeTheMatrix.ipynb)|Easy| |
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [C++](./algorithms/575/DistributeCandies.ipynb)|Easy| |
-|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python3](./algorithms/589/N-aryTreePreorderTraversal.ipynb)|Easy| &diams; |
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python3](./algorithms/589/N-aryTreePreorderTraversal.ipynb)|Easy| |
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python3](./algorithms/590/N-aryTreePostorderTraversal.ipynb)|Easy| |
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) | [C++](./algorithms/609/FindDuplicateFileInSystem.ipynb)|Medium| |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](./algorithms/637/AverageOfLevelsInBinaryTree.ipynb)|Easy| |
