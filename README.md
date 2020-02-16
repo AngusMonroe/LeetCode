@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 84 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 85 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -65,6 +65,7 @@ Notes:
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python3](./algorithms/590/N-aryTreePostorderTraversal.ipynb)|Easy| |
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) | [C++](./algorithms/609/FindDuplicateFileInSystem.ipynb)|Medium| |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./algorithms/621/TaskScheduler.ipynb)|Medium| &diams; |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](./algorithms/637/AverageOfLevelsInBinaryTree.ipynb)|Easy| |
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./algorithms/647/PalindromicSubstrings.ipynb)|Medium| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
