@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 86 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 87 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -67,6 +67,7 @@ Notes:
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./algorithms/617/MergeTwoBinaryTrees.ipynb)|Easy| |
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./algorithms/621/TaskScheduler.ipynb)|Medium| &diams; |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](./algorithms/637/AverageOfLevelsInBinaryTree.ipynb)|Easy| |
+|641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Python3](./algorithms/641/DesignCircularDeque.ipynb)|Medium| |
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./algorithms/647/PalindromicSubstrings.ipynb)|Medium| |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
