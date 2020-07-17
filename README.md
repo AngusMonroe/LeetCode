@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 91 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 92 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -18,6 +18,7 @@ Notes:
 |   | Title | Solution | Difficulty | Remark |
 |---| ----- | -------- | ---------- | ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithms/1/TwoSum.ipynb)|Easy| |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./algorithms/5/LongestPalindromicSubstring.ipynb)|Medium| |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](./algorithms/9/PalindromeNumber.ipynb)|Easy| |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithms/70/TwoSum.ipynb)|Easy| |
 |104|[Single Number](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](./algorithms/104/MaximumDepthOfBinaryTree.ipynb)|Easy| |
