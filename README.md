@@ -81,7 +81,7 @@ Notes:
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [C++](./algorithms/654/MaximumBinaryTree.ipynb)|Medium| &diams; |
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [C++](./algorithms/657/JudgeRouteCircle.ipynb)|Easy| |
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [C++](./algorithms/667/BeautifulArrangementII.ipynb)|Medium| &diams; |
-|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/657/TrimABinarySearchTree.ipynb)|Easy| &diams; |
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./algorithms/669/TrimABinarySearchTree.ipynb)|Easy| &diams; |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./algorithms/677/MapSumPairs.ipynb)|Medium| &diams; |
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [C++](./algorithms/682/BaseballGame.ipynb)|Easy| |
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [C++](./algorithms/690/EmployeeImportance.ipynb)|Easy| &diams; |
