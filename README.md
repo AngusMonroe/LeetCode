@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 99 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 100 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -90,6 +90,7 @@ Notes:
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [C++](./algorithms/693/BinaryNumberWithAlternatingBits.ipynb)|Easy| |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./algorithms/695/MaxAreaOfIsland.ipynb)|Easy| |
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](./algorithms/696/CountBinarySubstrings.ipynb)|Easy| |
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python3](./algorithms/701/InsertIntoABinarySearchTree.ipynb)|Medium| |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python3](./algorithms/709/ToLowerCase.ipynb)|Easy| |
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](./algorithms/712/MinimumASCIIDeleteSumForTwoStrings.ipynb)|Medium| &diams; |
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [C++](./algorithms/728/SelfDividingNumbers.ipynb)|Easy| |
