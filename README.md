@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 100 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 101 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -109,6 +109,7 @@ Notes:
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python3](./algorithms/804/UniqueMorseCodeWords.ipynb)|Easy| |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./algorithms/812/LargestTriangleArea.ipynb)|Easy| |
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Python3](./algorithms/817/LinkedListComponents.ipynb)|Medium| |
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Python3](./algorithms/890/FindAndReplacePattern.ipynb)|Medium| |
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Python3](./algorithms/893/GroupsOfSpecial-EquivalentStrings.ipynb)|Easy| |
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python3](./algorithms/912/SortAnArray.ipynb)|Medium| |
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python3](./algorithms/933/NumberOfRecentCalls.ipynb)|Easy| |
