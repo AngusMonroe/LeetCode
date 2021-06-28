@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 106 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 107 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -25,6 +25,7 @@ Notes:
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](./algorithms/38/CountAndSay.ipynb)|Medium| |
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](./algorithms/39/CombinationSum.ipynb)|Medium| |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./algorithms/40/CombinationSumII.ipynb)|Medium| |
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python3](./algorithms/43/MultiplyStrings.ipynb)|Medium| |
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python3](./algorithms/44/WildcardMatching.ipynb)|Hard| &diams; |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](./algorithms/50/Powx-n.ipynb)|Medium| |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithms/53/MaximumSubarray.ipynb)|Easy| |
