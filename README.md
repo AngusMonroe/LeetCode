@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 109 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 110 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -32,6 +32,7 @@ Notes:
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](./algorithms/50/Powx-n.ipynb)|Medium| |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithms/53/MaximumSubarray.ipynb)|Easy| |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithms/70/TwoSum.ipynb)|Easy| |
+|89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Python3](./algorithms/89/GrayCode.ipynb)|Medium| |
 |104|[Single Number](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](./algorithms/104/MaximumDepthOfBinaryTree.ipynb)|Easy| |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./algorithms/136/SingleNumber.ipynb)|Easy| |
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python3](./algorithms/150/EvaluateReversePolishNotation.ipynb)|Medium| |
