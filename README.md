@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-*Solutions of 110 algorithm problems starting from the highest pass rate on LeetCode.*
+*Solutions of 111 algorithm problems starting from the highest pass rate on LeetCode.*
 
 *Updating 1 problem everyday.*
 
@@ -23,6 +23,7 @@ Notes:
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](./algorithms/9/PalindromeNumber.ipynb)|Easy| |
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python3](./algorithms/10/RegularExpressionMatching.ipynb)|Hard| &diams; |
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](./algorithms/15/3Sum.ipynb)|Medium| &diams; |
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](./algorithms/36/ValidSudoku.ipynb)|Medium| |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](./algorithms/38/CountAndSay.ipynb)|Medium| |
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](./algorithms/39/CombinationSum.ipynb)|Medium| |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./algorithms/40/CombinationSumII.ipynb)|Medium| |
